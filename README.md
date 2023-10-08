@@ -1,4 +1,4 @@
-# FaceTrackerCV 😄
+# FaceTrackerCV
 
 **Description:** FaceTrackerCV is a Python script that tracks faces in real-time using OpenCV and logs face presence intervals to a CSV file. It records when faces enter and exit the frame, which can be useful for various applications such as monitoring user engagement or attendance tracking.
 
