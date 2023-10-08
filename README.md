@@ -19,9 +19,9 @@
 5. Press 'q' to stop tracking and save the results to a CSV file named Object_Tracking.csv.
 
 ## Output ✌️
-1. Image Output:
+   1. Image Output:
 <img align="center" src="./image_2023-10-08_213012347.png" alt="vedang_1122" width="auto" height="auto"/>
-2. CSV File:
+   2. CSV File:
    
   ```bash
    ,Start,End
